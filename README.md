@@ -1,4 +1,4 @@
-Description
+## Description
 A retro-inspired top-down 2D action game built with the Raylib library. Players control a brave sword-wielding hero as they navigate through grassy lands, encountering obstacles like rocks and logs while engaging in combat with various enemies.
 
 The hero's health bar is prominently displayed, adding a layer of intensity as you dodge, slash, and survive. With pixel art visuals and smooth gameplay, the game brings back the nostalgic charm of classic arcade games.

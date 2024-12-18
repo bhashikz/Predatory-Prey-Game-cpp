@@ -12,9 +12,9 @@ The hero's health bar is prominently displayed, adding a layer of intensity as y
 ## Screenshots
 
 ### Gameplay Image 1
-![Gameplay Screenshot 1](Game_Play_Images/Screenshot1.jpg)  
+![Gameplay Screenshot 1](Game Play Images/Screenshot1.jpg)  
 *Explore grassy lands while monitoring your health.*
 
 ### Gameplay Image 2
-![Gameplay Screenshot 2](Game_Play_Images/Screenshot2.jpg)  
+![Gameplay Screenshot 2](Game Play Images/Screenshot2.jpg)  
 *Battle enemies and test your survival skills!*

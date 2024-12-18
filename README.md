@@ -9,8 +9,9 @@ The hero's health bar is prominently displayed, adding a layer of intensity as y
 🎨 Pixel art visuals: Retro-style graphics with clean and colorful sprites.
 ⚡ Fast-paced action: Quick reflexes are the key to survival!
 
-Screenshots
-Combat and Exploration
-![Gameplay Screenshot 1](Screenshot 2024-12-18 013614.jpg) Face obstacles like rocks and logs while monitoring your health.
+### Combat and Exploration
+![Gameplay Screenshot 1](github%20pics/Screenshot1.jpg)  
+*Face obstacles like rocks and logs while monitoring your health.*
 
-![Gameplay Screenshot 2](Screenshot 2024-12-18 013904.jpg) Engage enemies near rivers, fight for survival, and stay alive!
+![Gameplay Screenshot 2](github%20pics/Screenshot2.jpg)  
+*Engage enemies near rivers, fight for survival, and stay alive!*

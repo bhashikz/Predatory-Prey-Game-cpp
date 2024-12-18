@@ -11,9 +11,6 @@ The hero's health bar is prominently displayed, adding a layer of intensity as y
 
 ## Screenshots
 
-### Combat and Exploration
-![Gameplay Screenshot 1](github_pics/images/Screenshot1.jpg)  
-*Face obstacles like rocks and logs while monitoring your health.*
+![Gameplay Screenshot 1](Game%20Play%20Images/Screenshot1.jpg)
+![Gameplay Screenshot 2](Game%20Play%20Images/Screenshot2.jpg)
 
-![Gameplay Screenshot 2](github_pics/images/Screenshot2.jpg)  
-*Engage enemies near rivers, fight for survival, and stay alive!*

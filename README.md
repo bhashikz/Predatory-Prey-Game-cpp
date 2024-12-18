@@ -11,6 +11,6 @@ The hero's health bar is prominently displayed, adding a layer of intensity as y
 
 ## Screenshots
 
-![Gameplay Screenshot 1](GGamePlayImages/Screenshot1.jpg)
+![Gameplay Screenshot 1](GamePlayImages/Screenshot1.jpg)
 ![Gameplay Screenshot 2](GamePlayImages/Screenshot2.jpg)
 
